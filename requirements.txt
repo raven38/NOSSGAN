@@ -1,0 +1,12 @@
+h5py
+matplotlib
+ninja
+numpy
+Pillow
+tqdm
+scipy
+sklearn
+six
+seaborn
+pandas
+tensorboard
